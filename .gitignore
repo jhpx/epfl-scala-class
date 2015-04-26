@@ -1,4 +1,12 @@
-.worksheet
-.cache
 bin
 target
+submission
+project/project
+project/target
+.worksheet
+.cache
+
+.idea
+
+.classpath
+.project
