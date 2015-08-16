@@ -5,6 +5,8 @@ project/project
 project/target
 .worksheet
 .cache
+.cache-main
+.cache-tests
 
 .idea
 
